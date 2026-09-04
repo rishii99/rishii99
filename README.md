@@ -86,33 +86,6 @@ class Rishi:
 
 </div>
 
-### 📈 Daily Activity Graph
-
-<!-- TODO: replace github-readme-activity-graph.vercel.app below with your own
-     self-deployed instance (deploy from
-     github.com/Ashutosh00710/github-readme-activity-graph) to avoid the
-     public server's rate-limit / broken-image issue. -->
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishii99&theme=tokyo-night&hide_border=true&area=true&custom_title=Rishi's%20Daily%20Contribution%20Graph"/>
-</div>
-
-### 🐍 Contribution Snake (updates daily via GitHub Action)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rishii99/rishii99/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
-> ⚠️ The snake graphic above only appears **after** you add the workflow file below to your `rishii99/rishii99` repo — it renders the actual SVG that the Action generates, committed fresh every day.
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishii99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
 ---
 
 ### 🔥 What I'm Up To
