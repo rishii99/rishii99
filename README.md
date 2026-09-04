@@ -1,18 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm Rishi Maddheshiya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rishi%20Maddheshiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishi%20Maddheshiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50" width="100%"/>
-
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+Data+Science+%26+AI+Enthusiast;Python+%7C+Machine+Learning+%7C+DSA;Building+AI+projects+to+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+Data+Science+%26+AI+Enthusiast;Python+%7C+Machine+Learning+%7C+DSA;Building+AI+projects+to+solve+real+problems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & GitHub Followers -->
 <img src="https://komarev.com/ghpvc/?username=rishii99&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/rishii99?tab=followers">
@@ -23,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 ```python
 class Rishi:
@@ -33,19 +28,19 @@ class Rishi:
     location   = "India 🇮🇳"
     languages  = ["Python", "Java", "C++", "JavaScript"]
     interests  = ["Machine Learning", "Data Science", "DSA", "Problem Solving"]
-    
+
     def currently_learning(self):
         return ["NumPy", "Pandas", "Matplotlib", "TensorFlow", "Scikit-Learn"]
-    
+
     def fun_fact(self):
         return "I solve Sudoku puzzles while listening to music 🎵🧩"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -54,7 +49,7 @@ class Rishi:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### 🤖 AI / Data Science
+**AI / Data Science**
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -63,7 +58,7 @@ class Rishi:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Tools
+**Database & Tools**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
@@ -74,22 +69,36 @@ class Rishi:
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats (auto-refreshing)
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishii99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii99&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishii99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii99&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
+### 📈 Daily Activity Graph
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishii99&theme=tokyo-night&hide_border=true&area=true&custom_title=Rishi's%20Daily%20Contribution%20Graph"/>
+</div>
+
+### 🐍 Contribution Snake (updates daily via GitHub Action)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/rishii99/rishii99/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+> ⚠️ The snake graphic above only appears **after** you add the workflow file below to your `rishii99/rishii99` repo — it renders the actual SVG that the Action generates, committed fresh every day.
+
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rishii99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
@@ -97,7 +106,7 @@ class Rishi:
 
 ---
 
-## 🔥 What I'm Up To
+### 🔥 What I'm Up To
 
 - 🌱 Currently mastering **ML with Python** (NumPy, Pandas, TensorFlow, Scikit-Learn)
 - 💻 Grinding **DSA** on LeetCode daily
@@ -108,7 +117,7 @@ class Rishi:
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <div align="center">
 
@@ -125,8 +134,6 @@ class Rishi:
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
-  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
