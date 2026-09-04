@@ -71,18 +71,27 @@ class Rishi:
 
 ### 📊 GitHub Stats (auto-refreshing)
 
+<!-- github-readme-stats is no longer maintained (its public server stopped
+     updating) — switched to its actively-maintained successor,
+     github-stats-extended, which is fully drop-in compatible. -->
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishii99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii99&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rishii99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=rishii99&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rishii99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 ### 📈 Daily Activity Graph
+
+<!-- TODO: replace github-readme-activity-graph.vercel.app below with your own
+     self-deployed instance (deploy from
+     github.com/Ashutosh00710/github-readme-activity-graph) to avoid the
+     public server's rate-limit / broken-image issue. -->
 
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishii99&theme=tokyo-night&hide_border=true&area=true&custom_title=Rishi's%20Daily%20Contribution%20Graph"/>
